@@ -24,6 +24,7 @@
   ],
   "author": "Marius Nergård",
   "license": "MIT",
+  "homepage": "https://github.com/mariusnergard/prime-pack-proc-cli",
   "dependencies": {
     "adm-zip": "^0.4.13",
     "arg": "^4.1.1",
