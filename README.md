@@ -1,6 +1,6 @@
 # prime-pack-proc-cli
 
-A CLI tool for Nexus PRIME to pack BPMN processes with dependencies like forms and scripts to a importable script.<br>
+A CLI tool for Nexus PRIME to pack BPMN processes with dependencies like forms and scripts to a importable zip-file.<br>
 This must be used on an extracted PRIME configuration package.<br>
 
 Install globally<br>
