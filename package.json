@@ -1,0 +1,34 @@
+{
+  "name": "@mnergard/prime-pack-proc-cli",
+  "version": "1.0.0",
+  "description": "A CLI that packs PRIME processes and related files to a .zip file",
+  "main": "src/index.js",
+  "bin": {
+    "@mnergard/prime-pack-proc-cli": "bin/prime-pack-proc.js",
+    "prime-pack-proc": "bin/prime-pack-proc.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "Nexus PRIME",
+    "cli",
+    "prime-pack-proc"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "author": "Marius Nergård",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "arg": "^4.1.1",
+    "esm": "^3.2.25",
+    "inquirer": "^7.0.0",
+    "xml2js": "^0.4.22"
+  }
+}
