@@ -1,6 +1,6 @@
 {
   "name": "@mnergard/prime-pack-proc-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI that packs PRIME processes and related files to a .zip file",
   "main": "src/index.js",
   "bin": {
